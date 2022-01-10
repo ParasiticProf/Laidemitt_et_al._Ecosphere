@@ -1,0 +1,220 @@
+Trial,date,Observer,Treatment,Predicted Side,Other side,total found,LocationMira,LocationSnail,AllovSym,LabField
+1,6/20/2019,Steven,BSvNo,4,7,11,Kanyi,Kanyi,Sym,Lab
+2,6/20/2019,Steven,BSvNo,9,4,13,Kanyi,Kanyi,Sym,Lab
+3,6/20/2019,Steven,BSvNo,3,1,4,Kanyi,Kanyi,Sym,Lab
+4,6/20/2019,Steven,BSvNo,8,4,12,Kanyi,Kanyi,Sym,Lab
+5,6/20/2019,Steven,BSvNo,7,6,13,Kanyi,Kanyi,Sym,Lab
+6,6/20/2019,Chris,BSvNo,9,5,14,Kanyi,Kanyi,Sym,Lab
+7,6/20/2019,Chris,BSvNo,8,1,9,Kanyi,Kanyi,Sym,Lab
+8,6/20/2019,Chris,BSvNo,5,10,15,Kanyi,Kanyi,Sym,Lab
+9,6/20/2019,Chris,BSvNo,9,6,15,Kanyi,Kanyi,Sym,Lab
+10,6/20/2019,Chris,BSvNo,7,3,10,Kanyi,Kanyi,Sym,Lab
+11,6/22/2019,Steven,BSvNo,9,4,13,Kanyi,Kanyi,Sym,Lab
+12,6/22/2019,Steven,BSvNo,11,2,13,Kanyi,Kanyi,Sym,Lab
+13,6/22/2019,Steven,BSvNo,8,7,15,Kanyi,Kanyi,Sym,Lab
+14,6/22/2019,Steven,BSvNo,9,4,13,Kanyi,Kanyi,Sym,Lab
+15,6/22/2019,Steven,BSvNo,12,2,14,Kanyi,Kanyi,Sym,Lab
+16,6/24/2019,Steven,BSvNo,10,3,13,Kanyi,Kanyi,Sym,Lab
+17,6/24/2019,Steven,BSvNo,9,6,15,Kanyi,Kanyi,Sym,Lab
+18,6/24/2019,Steven,BSvNo,9,5,14,Kanyi,Kanyi,Sym,Lab
+19,6/24/2019,Steven,BSvNo,12,3,15,Kanyi,Kanyi,Sym,Lab
+20,6/24/2019,Steven,BSvNo,9,4,13,Kanyi,Kanyi,Sym,Lab
+21,6/22/2019,Chris,BSvNo,9,3,12,Kanyi,Kanyi,Sym,Lab
+22,6/22/2019,Chris,BSvNo,9,5,14,Kanyi,Kanyi,Sym,Lab
+23,6/22/2019,Chris,BSvNo,8,4,12,Kanyi,Kanyi,Sym,Lab
+24,6/22/2019,Chris,BSvNo,11,4,15,Kanyi,Kanyi,Sym,Lab
+25,7/5/2019,Steven,BSvNo,12,3,15,Asao,Field,Allo,Field
+26,7/6/2019,Steven,BSvNo,12,3,15,Asao,Field,Allo,Field
+27,7/6/2019,Steven,BSvNo,12,3,15,Asao,Field,Allo,Field
+28,7/6/2019,Steven,BSvNo,6,8,14,Asao,Field,Allo,Field
+29,7/6/2019,Steven,BSvNo,8,7,15,Asao,Field,Allo,Field
+30,7/6/2019,Steven,BSvNo,11,3,14,Asao,Field,Allo,Field
+31,7/6/2019,Chris,BSvNo,12,3,15,Asao,Field,Allo,Field
+32,7/6/2019,Chris,BSvNo,9,5,14,Asao,Field,Allo,Field
+33,7/6/2019,Chris,BSvNo,10,5,15,Asao,Field,Allo,Field
+34,7/6/2019,Chris,BSvNo,13,2,15,Asao,Field,Allo,Field
+35,7/6/2019,Chris,BSvNo,12,3,15,Asao,Field,Allo,Field
+36,7/6/2019,Chris,BSvNo,12,3,15,Asao,Field,Allo,Field
+37,7/12/2019,Steven,BPvNo ,7,8,15,Kanyi,Field,Allo,Field
+38,7/16/2019,Steven,BPvNo ,12,3,15,Kanyi,Field,Allo,Field
+39,7/16/2019,Steven,BPvNo ,9,5,14,Kanyi,Field,Allo,Field
+40,7/17/2019,Steven,BPvNo ,10,4,14,Kanyi,Field,Allo,Field
+41,7/19/2019,Steven,BPvNo ,13,2,15,Kanyi,Field,Allo,Field
+42,7/19/2019,Steven,BPvNo ,10,4,14,Kanyi,Field,Allo,Field
+43,7/19/2019,Steven,BPvNo ,11,3,14,Kanyi,Field,Allo,Field
+44,7/12/2019,Chris,BPvNo ,10,5,15,Kanyi,Field,Allo,Field
+45,7/12/2019,Chris,BPvNo ,12,3,15,Kanyi,Field,Allo,Field
+46,7/16/2019,Chris,BPvNo ,10,5,15,Kanyi,Field,Allo,Field
+47,7/16/2019,Chris,BPvNo ,11,3,14,Kanyi,Field,Allo,Field
+48,7/17/2019,Chris,BPvNo ,13,1,14,Kanyi,Field,Allo,Field
+49,7/19/2019,Chris,BPvNo ,13,2,15,Kanyi,Field,Allo,Field
+50,7/19/2019,Chris,BPvNo ,12,3,15,Kanyi,Field,Allo,Field
+51,7/19/2019,Chris,BPvNo ,10,1,11,Kanyi,Field,Allo,Field
+52,7/8/2019,Steven,BPvNo ,14,0,14,Asao,Field,Sym,Field
+53,7/8/2019,Steven,BPvNo ,11,4,15,Asao,Field,Sym,Field
+54,7/8/2019,Steven,BPvNo ,14,1,15,Asao,Field,Sym,Field
+55,7/8/2019,Steven,BPvNo ,11,4,15,Asao,Field,Sym,Field
+56,7/8/2019,Steven,BPvNo ,9,5,14,Asao,Field,Sym,Field
+57,7/8/2019,Steven,BPvNo ,8,7,15,Asao,Field,Sym,Field
+58,7/10/2019,Steven,BPvNo ,10,5,15,Asao,Field,Sym,Field
+59,7/8/2019,Chris,BPvNo ,12,1,13,Asao,Field,Sym,Field
+60,7/8/2019,Chris,BPvNo ,12,3,15,Asao,Field,Sym,Field
+61,7/8/2019,Chris,BPvNo ,11,3,14,Asao,Field,Sym,Field
+62,7/8/2019,Chris,BPvNo ,13,2,15,Asao,Field,Sym,Field
+63,7/8/2019,Chris,BPvNo ,14,1,15,Asao,Field,Sym,Field
+64,7/8/2019,Chris,BPvNo ,13,1,14,Asao,Field,Sym,Field
+65,7/10/2019,Chris,BPvNo ,12,3,15,Asao,Field,Sym,Field
+66,6/21/2019,Steven,BCvNo,8,4,12,Kanyi,Kanyi,Sym,Lab
+67,6/21/2019,Steven,BCvNo,5,9,14,Kanyi,Kanyi,Sym,Lab
+68,6/21/2019,Steven,BCvNo,10,4,14,Kanyi,Kanyi,Sym,Lab
+69,6/21/2019,Steven,BCvNo,8,3,11,Kanyi,Kanyi,Sym,Lab
+70,6/21/2019,Steven,BCvNo,9,6,15,Kanyi,Kanyi,Sym,Lab
+71,6/21/2019,Steven,BCvNo,4,11,15,Kanyi,Kanyi,Sym,Lab
+72,6/21/2019,Steven,BCvNo,11,1,12,Kanyi,Kanyi,Sym,Lab
+73,6/21/2019,Chris,BCvNo,11,4,15,Kanyi,Kanyi,Sym,Lab
+74,6/21/2019,Chris,BCvNo,9,4,13,Kanyi,Kanyi,Sym,Lab
+75,6/21/2019,Chris,BCvNo,13,1,14,Kanyi,Kanyi,Sym,Lab
+76,6/21/2019,Chris,BCvNo,8,2,10,Kanyi,Kanyi,Sym,Lab
+77,6/21/2019,Chris,BCvNo,6,7,13,Kanyi,Kanyi,Sym,Lab
+78,7/7/2019,Steven,BCvNo,12,3,15,Asao,Kanyi,Allo ,Field
+79,7/7/2019,Steven,BCvNo,8,7,15,Asao,Kanyi,Allo ,Field
+80,7/7/2019,Steven,BCvNo,12,3,15,Asao,Kanyi,Allo ,Field
+81,7/7/2019,Steven,BCvNo,13,2,15,Asao,Kanyi,Allo ,Field
+82,7/7/2019,Steven,BCvNo,9,4,13,Asao,Kanyi,Allo ,Field
+83,7/7/2019,Steven,BCvNo,14,3,17,Asao,Kanyi,Allo ,Field
+84,7/7/2019,Steven,BCvNo,15,0,15,Asao,Kanyi,Allo ,Field
+85,7/7/2019,Steven,BCvNo,13,2,15,Asao,Kanyi,Allo ,Field
+86,7/7/2019,Chris,BCvNo,8,7,15,Asao,Kanyi,Allo ,Field
+87,7/7/2019,Chris,BCvNo,15,1,16,Asao,Kanyi,Allo ,Field
+88,7/7/2019,Chris,BCvNo,10,5,15,Asao,Kanyi,Allo ,Field
+89,7/7/2019,Chris,BCvNo,13,2,15,Asao,Kanyi,Allo ,Field
+90,7/7/2019,Chris,BCvNo,13,2,15,Asao,Kanyi,Allo ,Field
+91,7/7/2019,Chris,BCvNo,12,4,16,Asao,Kanyi,Allo ,Field
+92,7/7/2019,Chris,BCvNo,12,3,15,Asao,Kanyi,Allo ,Field
+93,7/7/2019,Chris,BCvNo,13,2,15,Asao,Kanyi,Allo ,Field
+94,7/2/2019,Steven,BSvBC,9,5,14,Kanyi,KenduBay,Allo,Field
+95,7/2/2019,Steven,BSvBC,6,9,15,Kanyi,KenduBay,Allo,Field
+96,7/2/2019,Steven,BSvBC,10,4,14,Kanyi,KenduBay,Allo,Field
+97,7/2/2019,Steven,BSvBC,7,6,13,Kanyi,KenduBay,Allo,Field
+98,7/2/2019,Steven,BSvBC,8,5,13,Kanyi,KenduBay,Allo,Field
+99,7/2/2019,Steven,BSvBC,9,4,13,Kanyi,KenduBay,Allo,Field
+100,7/2/2019,Steven,BSvBC,13,2,15,Kanyi,KenduBay,Allo,Field
+101,7/2/2019,Steven,BSvBC,12,3,15,Kanyi,KenduBay,Allo,Field
+102,7/2/2019,Chris,BSvBC,8,7,15,Kanyi,KenduBay,Allo,Field
+103,7/2/2019,Chris,BSvBC,9,4,13,Kanyi,KenduBay,Allo,Field
+104,7/2/2019,Chris,BSvBC,8,7,15,Kanyi,KenduBay,Allo,Field
+105,7/2/2019,Chris,BSvBC,6,9,15,Kanyi,KenduBay,Allo,Field
+106,7/2/2019,Chris,BSvBC,8,7,15,Kanyi,KenduBay,Allo,Field
+107,7/2/2019,Chris,BSvBC,7,8,15,Kanyi,KenduBay,Allo,Field
+108,7/2/2019,Chris,BSvBC,5,6,11,Kanyi,KenduBay,Allo,Field
+109,7/2/2019,Chris,BSvBC,11,4,15,Kanyi,KenduBay,Allo,Field
+110,7/2/2019,Chris,BSvBC,8,6,14,Kanyi,KenduBay,Allo,Field
+111,7/2/2019,Chris,BSvBC,10,4,14,Kanyi,KenduBay,Allo,Field
+112,7/2/2019,Chris,BSvBC,6,4,10,Kanyi,KenduBay,Allo,Field
+146,6/13/2017,MartinMartina,BSvBP,9,6,15,Carwash/Asao,Carwash,Allo,Field
+147,6/13/2017,MartinMartina,BSvBP,8,7,15,Carwash/Asao,Carwash,Allo,Field
+148,6/13/2017,MartinMartina,BSvBP,4,10,14,Carwash/Asao,Carwash,Allo,Field
+149,6/13/2017,MartinMartina,BSvBP,7,8,15,Carwash/Asao,Carwash,Allo,Field
+150,6/13/2017,MartinMartina,BSvBP,9,6,15,Carwash/Asao,Carwash,Allo,Field
+151,6/13/2017,MartinMartina,BSvBP,7,6,13,Carwash/Asao,Carwash,Allo,Field
+152,6/13/2017,MartinMartina,BSvBP,9,6,15,Carwash/Asao,Carwash,Allo,Field
+153,6/13/2017,MartinMartina,BSvBP,11,4,15,Carwash/Asao,Carwash,Allo,Field
+154,6/13/2017,MartinMartina,BSvBP,4,10,14,Carwash/Asao,Carwash,Allo,Field
+155,6/13/2017,MartinMartina,BSvBP,5,10,15,Carwash/Asao,Carwash,Allo,Field
+156,6/13/2017,MartinMartina,BSvBP,5,10,15,Carwash/Asao,Carwash,Allo,Field
+157,6/13/2017,MartinMartina,BSvBP,5,9,14,Carwash/Asao,Carwash,Allo,Field
+158,6/13/2017,MartinMartina,BSvBP,4,9,13,Carwash/Asao,Carwash,Allo,Field
+159,5/28/2017,AlyssaMartina,BSvBP,15,0,15,Asao,Asao,Sym,Field
+160,5/28/2017,AlyssaMartina,BSvBP,8,4,12,Asao,Asao,Sym,Field
+161,5/28/2017,AlyssaMartina,BSvBP,14,0,14,Asao,Asao,Sym,Field
+162,5/28/2017,AlyssaMartina,BSvBP,3,12,15,Asao,Asao,Sym,Field
+163,5/28/2017,AlyssaMartina,BSvBP,2,8,10,Asao,Asao,Sym,Field
+164,5/28/2017,AlyssaMartina,BSvBP,1,10,11,Asao,Asao,Sym,Field
+165,5/28/2017,AlyssaMartina,BSvBP,13,2,15,Asao,Asao,Sym,Field
+166,5/28/2017,AlyssaMartina,BSvBP,7,7,14,Asao,Asao,Sym,Field
+167,5/28/2017,AlyssaMartina,BSvBP,7,7,14,Asao,Asao,Sym,Field
+168,5/28/2017,AlyssaMartina,BSvBP,0,12,12,Asao,Asao,Sym,Field
+169,5/28/2017,AlyssaMartina,BSvBP,7,6,13,Asao,Asao,Sym,Field
+170,5/28/2017,AlyssaMartina,BSvBP,12,3,15,Asao,Asao,Sym,Field
+171,5/28/2017,AlyssaMartina,BSvBP,8,4,12,Asao,Asao,Sym,Field
+172,5/28/2017,AlyssaMartina,BSvBP,5,10,15,Asao,Asao,Sym,Field
+173,8/29/2019,Paulicarp,BSvBP,8,7,15,Kanyibok,Asao,Allo,Lab
+174,8/29/2019,Paulicarp,BSvBP,7,3,10,Kanyibok,Asao,Allo,Lab
+175,8/29/2019,Paulicarp,BSvBP,8,5,13,Kanyibok,Asao,Allo,Lab
+176,8/29/2019,Paulicarp,BSvBP,6,5,11,Kanyibok,Asao,Allo,Lab
+177,8/30/2019,Paulicarp,BSvBP,8,6,14,Kanyibok,Asao,Allo,Lab
+178,8/30/2019,Paulicarp,BSvBP,9,4,13,Kanyibok,Asao,Allo,Lab
+179,8/30/2019,Paulicarp,BSvBP,4,11,15,Kanyibok,Asao,Allo,Lab
+180,8/30/2019,Paulicarp,BSvBP,5,10,15,Kanyibok,Asao,Allo,Lab
+181,8/29/2019,Paulicarp,BSvBP,6,8,14,Asao,Asao,Sym,Lab
+182,8/29/2019,Paulicarp,BSvBP,5,6,11,Asao,Asao,Sym,Lab
+183,8/29/2019,Paulicarp,BSvBP,6,7,13,Asao,Asao,Sym,Lab
+184,8/29/2019,Paulicarp,BSvBP,6,9,15,Asao,Asao,Sym,Lab
+185,8/30/2019,Paulicarp,BSvBP,2,13,15,Asao,Asao,Sym,Lab
+186,8/30/2019,Paulicarp,BSvBP,4,10,14,Asao,Asao,Sym,Lab
+187,8/30/2019,Paulicarp,BSvBP,7,8,15,Asao,Asao,Sym,Lab
+188,8/30/2019,Paulicarp,BSvBP,5,8,13,Asao,Asao,Sym,Lab
+189,9/30/2019,Paulicarp,BSvBP,5,10,15,Asao,Asao,Sym,Lab
+190,9/30/2019,Paulicarp,BSvBP,6,9,15,Asao,Asao,Sym,Lab
+191,9/30/2019,Paulicarp,BSvBP,4,10,14,Asao,Asao,Sym,Lab
+192,9/30/2019,Paulicarp,BSvBP,6,7,13,Asao,Asao,Sym,Lab
+193,9/30/2019,Paulicarp,BSvBP,5,9,14,Asao,Asao,Sym,Lab
+194,9/30/2019,Paulicarp,BSvBP,5,9,14,Asao,Asao,Sym,Lab
+195,9/30/2019,Paulicarp,BSvBP,5,8,13,Asao,Asao,Sym,Lab
+196,9/30/2019,Paulicarp,BSvBP,5,8,13,Asao,Asao,Sym,Lab
+197,5/22/2017,Martina,ANvN,7,6,13,Asao,NA,NA,NA
+198,5/22/2017,Martina,ANvN,4,10,14,Asao,NA,NA,NA
+199,5/22/2017,Martina,ANvN,7,6,13,Asao,NA,NA,NA
+200,5/22/2017,Martina,ANvN,6,8,14,Asao,NA,NA,NA
+201,5/22/2017,Martina,ANvN,6,9,15,Asao,NA,NA,NA
+202,5/22/2017,Martina,ANvN,6,7,13,Asao,NA,NA,NA
+203,5/22/2017,Martina,ANvN,2,10,12,Asao,NA,NA,NA
+204,5/22/2017,Martina,ANvN,7,6,13,Asao,NA,NA,NA
+205,5/22/2017,Martina,ANvN,7,7,14,Asao,NA,NA,NA
+206,5/22/2017,Martina,ANvN,11,4,15,Asao,NA,NA,NA
+207,5/22/2017,Martina,ANvN,11,4,15,Asao,NA,NA,NA
+219,5/23/2017,Martina,BPvNo,8,4,12,Asao,Lab F1,Sym,Lab
+208,5/23/2017,Martina,BPvNo,8,4,12,Asao,Lab F1,Sym,Lab
+209,5/23/2017,Martina,BPvNo,12,1,13,Asao,Lab F1,Sym,Lab
+210,5/23/2017,Martina,BPvNo,10,3,13,Asao,Lab F1,Sym,Lab
+211,5/23/2017,Martina,BPvNo,7,6,13,Asao,Lab F1,Sym,Lab
+212,5/23/2017,Martina,BPvNo,9,5,14,Asao,Lab F1,Sym,Lab
+213,5/23/2017,Martina,BPvNo,13,2,15,Asao,Lab F1,Sym,Lab
+214,5/23/2017,Martina,BPvNo,12,4,16,Asao,Lab F1,Sym,Lab
+215,5/23/2017,Martina,BPvNo,11,2,13,Asao,Lab F1,Sym,Lab
+216,5/23/2017,Martina,BPvNo,10,3,13,Asao,Lab F1,Sym,Lab
+217,5/23/2017,Martina,BPvNo,8,4,12,Asao,Lab F1,Sym,Lab
+218,5/23/2017,Martina,BPvNo,9,4,13,Asao,Lab F1,Sym,Lab
+220,5/23/2017,Martina,BPvNo,7,3,10,Asao,Asao,Sym,Field
+221,5/23/2017,Martina,BPvNo,8,3,11,Asao,Asao,Sym,Field
+222,5/23/2017,Martina,BPvNo,7,7,14,Asao,Asao,Sym,Field
+223,5/23/2017,Martina,BPvNo,12,2,14,Asao,Asao,Sym,Field
+224,5/23/2017,Martina,BPvNo,11,3,14,Asao,Asao,Sym,Field
+225,5/23/2017,Martina,BPvNo,12,1,13,Asao,Asao,Sym,Field
+226,5/23/2017,Martina,BPvNo,8,5,13,Asao,Asao,Sym,Field
+227,5/23/2017,Martina,BPvNo,10,1,11,Asao,Asao,Sym,Field
+228,5/23/2017,Martina,BPvNo,10,3,13,Asao,Asao,Sym,Field
+229,5/23/2017,Martina,BPvNo,14,1,15,Asao,Asao,Sym,Field
+230,5/23/2017,Martina,BPvNo,11,4,15,Asao,Asao,Sym,Field
+231,5/23/2017,Martina,BPvNo,1,10,11,Asao,Asao,Sym,Field
+232,5/29/2017,Martina,BPvBulA,13,2,15,Asao,Asao,Sym,Field
+233,5/29/2017,Martina,BPvBulA,3,12,15,Asao,Asao,Sym,Field
+234,5/29/2017,Martina,BPvBulA,9,6,15,Asao,Asao,Sym,Field
+235,5/29/2017,Martina,BPvBulA,5,8,13,Asao,Asao,Sym,Field
+236,5/29/2017,Martina,BPvBulA,4,9,13,Asao,Asao,Sym,Field
+237,5/29/2017,Martina,BPvBulA,7,8,15,Asao,Asao,Sym,Field
+238,5/29/2017,Martina,BPvBulA,0,14,14,Asao,Asao,Sym,Field
+239,5/29/2017,Martina,BPvBulA,1,11,12,Asao,Asao,Sym,Field
+240,5/29/2017,Martina,BPvBulA,5,10,15,Asao,Asao,Sym,Field
+241,6/9/2017,Martina,BPvPhyA,11,4,15,Asao,Asao,Sym,Field
+242,6/9/2017,Martina,BPvPhyA,9,5,14,Asao,Asao,Sym,Field
+243,6/9/2017,Martina,BPvPhyA,7,7,14,Asao,Asao,Sym,Field
+244,6/9/2017,Martina,BPvPhyA,9,6,15,Asao,Asao,Sym,Field
+245,6/9/2017,Martina,BPvPhyA,11,4,15,Asao,Asao,Sym,Field
+246,6/9/2017,Martina,BPvPhyA,7,8,15,Asao,Asao,Sym,Field
+247,6/9/2017,Martina,BPvPhyA,10,5,15,Asao,Asao,Sym,Field
+248,6/9/2017,Martina,BPvPhyA,7,8,15,Asao,Asao,Sym,Field
+249,6/9/2017,Martina,BPvPhyA,7,5,12,Asao,Asao,Sym,Field
+250,6/9/2017,Martina,BPvPhyA,9,5,14,Asao,Asao,Sym,Field
+251,6/9/2017,Martina,BPvPhyA,7,7,14,Asao,Asao,Sym,Field
+252,6/9/2017,Martina,BPvPhyA,5,10,15,Asao,Asao,Sym,Field
